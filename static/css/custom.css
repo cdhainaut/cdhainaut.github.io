@@ -13,3 +13,13 @@ img[src$='#floatright']
 	/* width: min-content; */
 	width: auto;
 }
+.box-masonry-hover-text-header {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+}
+.box-masonry:hover .box-masonry-image.with-hover-overlay:before {
+  opacity: 0.85;
+}
