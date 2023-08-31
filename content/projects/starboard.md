@@ -16,5 +16,3 @@ In collaboration with Martin Fischer and Mathieu Durand, our team embarked on de
 The project's significance is already evident through a compelling interview with Tiesda You, our client. In the interview, Tiesda shares his remarkable experience with the windfoil, highlighting an unprecedented level of efficiency. You can watch the interview below:
 
 {{< youtube 7_pIg7h5f58 >}}
-
-Although this project is still in its early phases, the initial feedback is extremely promising. These innovative designs are already pushing the boundaries of hydrofoil performance and reshaping the windsurfing and wingfoiling landscape.
