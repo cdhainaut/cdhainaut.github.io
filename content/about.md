@@ -14,7 +14,7 @@ My approach prioritizes a holistic perspective, focusing on the larger picture r
 
 With a background in naval architecture, my dedication lies in delivering innovative hydrodynamic solutions that embody these fundamental principles.
 
-For more insights into my contributions to the world of yacht design, feel free to explore my projects and resume
+For more insights into my contributions to the world of yacht design, feel free to explore my [projects](/projects) and [resume](/cv.pdf)
 
 
 ![Charles Dhainaut](/img/about/profile.JPG) 
