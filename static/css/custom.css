@@ -1,0 +1,15 @@
+img[src$='#floatleft']
+{
+	float:left;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+}
+.img-test {
+	/* min-width: 100px; */
+	/* size: 1; */
+	/* width: min-content; */
+	width: auto;
+}

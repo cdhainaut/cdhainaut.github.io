@@ -1,0 +1,10 @@
+/* your styles go here */
+img[src$='#floatleft']
+{
+	float:left;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+}
