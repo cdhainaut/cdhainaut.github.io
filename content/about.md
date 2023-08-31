@@ -18,4 +18,4 @@ For more insights into my contributions to the world of yacht design, feel free 
 
 
 ![Charles Dhainaut](/img/about/profile.JPG) 
-*Enjoying Brittany's waters through sailing in Douarnenez Bay.*
+*Enjoying Brittany's waters sailing around Douarnenez.*
