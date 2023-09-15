@@ -9,8 +9,4 @@ weight = 3
 
 Performance prediction, Mathematical Modelling
 <!--more-->
-
-As part of the early stages of the America's Cup campaign with the Swiss team, I collaborated on developing mathematical and physical models for performance prediction and optimization. 
-<!-- Additionally, I applied my expertise in artificial intelligence to create a match racing strategy tool. -->
-
-<!-- My contributions were aimed at enhancing the team's competitive edge through advanced modeling and strategic decision-making. -->
+As part of the early stages of the America’s Cup campaign with the Swiss team, I collaborated on developing mathematical and physical models for performance prediction and optimization. My work was primarily focused on enhancing fitting methods (metamodels) and improving performance tools
