@@ -7,7 +7,7 @@ title = "Computational Fluid Dynamics (CFD)"
 weight = 6
 +++
 
-Various CFD projects
+Computational Fluid Dynamics
 <!--more-->
 In collaboration with [Fluid4Engineering](http://www.fluid4engineering.com/), I undertook various hydrodynamic analysis projects within the maritime industry.
 
