@@ -15,7 +15,7 @@ tags = ["charles","dhainaut","naval", "engineer", "optimization", "hydrodynamics
   #style = "default"
   style = "sea"
   custom_css = ["css/images.css"]
-  description = "charles dhainaut freelance engineer"
+  description = "Charles Dhainaut - I am a naval engineer specialized in race yachts hydrodynamics and optimization"
   copyright = "&copy;2023 Charles Dhainaut"
   sidebarAbout = [
     "I am a naval engineer specialized in race yachts hydrodynamics and optimization",
