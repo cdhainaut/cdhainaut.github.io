@@ -24,9 +24,9 @@ Competing in the IMOCA class presents unique challenges stemming from the string
 
 In this context, I had the privilege of being involved in the Charal 2 project nearly from its inception, allowing me to confront and address these challenges.
 
-## Phase 1 (2020): Dynamic Performance Analysis and Optimization
+## Phase 1 (2021): Dynamic Performance Analysis and Optimization
 
-In the initial phase of the Charal 2 project in 2020, my primary focus was on dynamic simulation utilizing Gomboc. The challenge was to establish a robust workflow for the dynamic comparison of various appendages and configuration candidates.
+In the initial phase of the Charal 2 project in 2021, my primary focus was on dynamic simulation utilizing Gomboc. The challenge was to establish a robust workflow for the dynamic comparison of various appendages and configuration candidates.
 
 Specialized tools were developed to automate different aspects of the Gomboc workflow, covering simulations, foil integration, and post-processing. This automation significantly boosted the efficiency of the process. Additionally, a dynamic optimization tool was developed to ensure that each configuration was evaluated under its optimal conditions, providing valuable insights for decision-making.
 
