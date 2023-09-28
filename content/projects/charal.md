@@ -7,7 +7,7 @@ title = "Charal 2 IMOCA"
 weight = 1
 +++
 
-Performance Prediction, Dynamic Simulation, and Foil Design
+*Performance Prediction, Dynamic Simulation, and Foil Design*
 <!--more-->
 
 ## IMOCAs and Their Unique Challenges

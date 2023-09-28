@@ -9,7 +9,7 @@ size = 1
 tags = ["tag1","tag2"]
 +++
 
-Olympic Kitefoil Design
+*Olympic Kitefoil Design*
 <!--more-->
 In collaboration with Simone Bartesaghi of Fluid4Engineering and Luca Filippi of Chubanga, I contributed to the design of the kitefoil for the 2024 Paris Olympics. Our combined efforts yielded a design that athletes could rely on for their Olympic journey.
 

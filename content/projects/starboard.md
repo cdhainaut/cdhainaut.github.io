@@ -7,7 +7,7 @@ title = "Starboard Foil"
 weight = 1
 +++
 
-Innovative Hydrofoil Design
+*Innovative Hydrofoil Design*
 <!--more-->
 
 In collaboration with Martin Fischer and Mathieu Durand, our team worked on designing hydrofoils for windsurfing and wingfoiling. A significant part of our efforts went into developing an optimization tool to create designs that met specific criteria for takeoff, stability, and performance across various speeds.

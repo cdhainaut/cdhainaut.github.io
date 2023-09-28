@@ -7,6 +7,6 @@ title = "Alinghi Red Bull Racing"
 weight = 3
 +++
 
-Performance prediction, Mathematical Modelling
+*Performance prediction, Mathematical Modelling*
 <!--more-->
 As part of the early stages of the America’s Cup campaign with the Swiss team, I collaborated on developing mathematical and physical models for performance prediction and optimization. My work was primarily focused on enhancing fitting methods (metamodels) and improving performance tools

@@ -7,5 +7,5 @@ title = "Enata Foiler"
 weight = 11
 +++
 
-Mechanical Design, 2d and 3d drafing
+*Mechanical Design, 2d and 3d drafing*
 <!--more-->

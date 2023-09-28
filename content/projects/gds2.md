@@ -7,7 +7,7 @@ title = "Grain de Sail 2"
 weight = 3
 +++
 
-Performance prediction
+*Performance prediction*
 <!--more-->
 Grain de Sail 2 embodies the maritime industry's shift towards sustainable shipping practices. In collaboration with naval architect Loys Leclerc and the [L2O Naval](https://www.l2onaval.com/) team, we had the opportunity to contribute to this important initiative.
 
