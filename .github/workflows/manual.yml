@@ -1,0 +1,14 @@
+name: Build cv
+on:
+  push:
+    branches:
+    - main
+jobs:
+  build_cv:
+    name: Convert CV to PDF using Pandoc
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v1
+      - uses: maxheld83/pandoc@v2
+        with:
+          args: "content/resume.md --output content/cv.pdf"
