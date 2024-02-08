@@ -19,4 +19,4 @@ jobs:
         with: 
           args: "resume.md --output=cv.pdf"
       - name: Move PDF to content folder
-        run: mv cv.pdf content/cv.pdf
+        run: mv -f cv.pdf content/cv.pdf
