@@ -15,6 +15,6 @@ jobs:
       - name: Copy resume.md to working directory
         run: cp content/resume.md .
       - name: Build PDF
-        uses: docker://pandoc/core:2.9
+        uses: docker://pandoc/latex:latest
         with: 
           args: "resume.md --output=cv.pdf"
