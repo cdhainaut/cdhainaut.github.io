@@ -8,7 +8,6 @@ jobs:
     name: Convert CV to PDF using Pandoc
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: maxheld83/pandoc@v2
+      - uses: docker://pandoc/core:2.9
         with:
-          args: "content/resume.md --output content/cv.pdf"
+          args: "content/resume.md --output=content/cv.pdf"
