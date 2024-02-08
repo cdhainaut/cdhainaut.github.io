@@ -46,7 +46,7 @@ tags = ["charles","dhainaut","naval", "engineer", "optimization", "hydrodynamics
   url = "contact/"
 
   [params.social]
-  email         = "ch.dhainaut@gmail.com"
+  email         = "ch.dhainaut@proton.me"
   linkedin      = "https://www.linkedin.com/in/charles-dhainaut-05491b87/"
   github        = "https://github.com/cdhainaut"
   cv        = "/cv.pdf"

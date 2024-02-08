@@ -6,7 +6,7 @@ geometry: "margin=15mm	,top=20mm"
 documentclass: article
 papersize: a4
 fontsize: 10pt
-subtitle: "Brest, France - ch.dhainaut@gmail.com - Tel: +33618716294"
+subtitle: "Brest, France - ch.dhainaut@proton.me - Tel: +33618716294"
 
 ---
 > I am a naval engineer specializing in hydrodynamics for race yacht design. My work revolves around employing numerical simulations, optimization techniques, data analysis, and machine learning methods to enhance the efficiency of high-performance sailboats.
