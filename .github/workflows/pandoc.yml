@@ -18,3 +18,5 @@ jobs:
         uses: docker://pandoc/latex:latest
         with: 
           args: "resume.md --output=cv.pdf"
+      - name: Move PDF to content folder
+        run: mv cv.pdf content/cv.pdf
