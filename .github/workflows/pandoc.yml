@@ -12,12 +12,12 @@ jobs:
       - name: Compile PDF
         uses: docker://pandoc/latex:latest
         with:
-           args: --output=cv.pdf content/resume.md
+           args: --output=content/cv.pdf content/resume.md
       - name: Copy output
         uses: actions/upload-artifact@v3
         with:
           name: output
-          path: cv.pdf
+          path: content/cv.pdf
 
     # defaults:
     #   run:
