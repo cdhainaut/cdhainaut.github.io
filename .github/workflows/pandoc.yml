@@ -6,17 +6,35 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ${{ github.workspace }}
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2.3.4
-      - name: Copy resume.md to working directory
-        run: cp content/resume.md .
-      - name: Build PDF
+      - name: Copy content from repository
+        uses: actions/checkout@v3
+      - name: Compile PDF
         uses: docker://pandoc/latex:latest
-        with: 
-          args: "resume.md --output=cv.pdf"
-      - name: Move PDF to content folder
-        run: mv cv.pdf content/cv.pdf
+        with:
+           args: --output=content/cv.pdf content/resume.md
+      - name: Copy output
+        uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: content/cv.pdf
+
+    # defaults:
+    #   run:
+    #     working-directory: ${{ github.workspace }}
+    # steps:
+    #   - name: Checkout repo
+    #     uses: actions/checkout@v2.3.4
+    #   - name: Copy resume.md to working directory
+    #     run: cp content/resume.md .
+    #   - name: Build PDF
+    #     uses: docker://pandoc/latex:latest
+    #     with: 
+    #       args: "resume.md --output=cv.pdf"
+    #   #- name: Move PDF to content folder
+    #   # run: mv -f cv.pdf content/cv.pdf
+    #   - name: Copy output
+    #     uses: actions/upload-artifact@v3
+    #     with:
+    #       name: output
+    #       path: output/test.pdf
