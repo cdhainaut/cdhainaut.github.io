@@ -3,6 +3,10 @@ on:
   push:
     branches:
     - main
+
+defaults:
+  run:
+    working-directory: content
 jobs:
   build:
     runs-on: ubuntu-latest
